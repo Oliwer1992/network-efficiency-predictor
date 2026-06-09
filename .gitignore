@@ -1,3 +1,4 @@
-!Oliwer_Rola.ipynb
-!README.md
-!.gitignore
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
